@@ -1,4 +1,6 @@
-Undergraduate majoring in **Computer Science** at **University of Georgia** Honors Program
+Undergraduate at **University of Georgia** Honors Program
+
+Currently pursuing Bachelor of Science in **Computer Science**
 
 **Focus area:**
 - Artificial Intelligence
