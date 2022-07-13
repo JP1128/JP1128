@@ -44,6 +44,8 @@ I'm currently working with a local high school's Habitat for Humanity club to cr
 <br>
   <a><img src="https://custom-icon-badges.herokuapp.com/badge/TypeScript-novice-007acc?logo=typescript&style=for-the-badge"></a>
   <a><img src="https://custom-icon-badges.herokuapp.com/badge/R-novice-276DC2?logo=r&style=for-the-badge"></a>
+  <a><img src="https://custom-icon-badges.herokuapp.com/badge/HTML-novice-f06529?style=for-the-badge"></a>
+  <a><img src="https://custom-icon-badges.herokuapp.com/badge/CSS-novice-2965f1?style=for-the-badge"></a>
 </p>
 
 <p>
