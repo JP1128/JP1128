@@ -67,16 +67,16 @@ I'm currently working with a local high school's Habitat for Humanity club to cr
 
 <p align="center">
   <a><img src="https://custom-icon-badges.herokuapp.com/badge/aws-FF9900?logo=aws&style=for-the-badge&logoColor=white"></a>
-  <a><img src="https://custom-icon-badges.herokuapp.com/badge/figma-0ACF83?logo=figma&style=for-the-badge&logoColor=white"></a>
-  <a><img src="https://custom-icon-badges.herokuapp.com/badge/docker-0db7ed?logo=docker&style=for-the-badge&logoColor=white"></a>
-  <a><img src="https://custom-icon-badges.herokuapp.com/badge/twilio-f22f46?logo=twilio&style=for-the-badge&logoColor=white"></a>
   <a><img src="https://custom-icon-badges.herokuapp.com/badge/digital ocean-0080ff?logo=digitalocean&style=for-the-badge&logoColor=white"></a>
+  <a><img src="https://custom-icon-badges.herokuapp.com/badge/docker-0db7ed?logo=docker&style=for-the-badge&logoColor=white"></a>
+  <a><img src="https://custom-icon-badges.herokuapp.com/badge/figma-0ACF83?logo=figma&style=for-the-badge&logoColor=white"></a>
+  <a><img src="https://custom-icon-badges.herokuapp.com/badge/flask-black?logo=flask&style=for-the-badge&logoColor=white"></a>
   <br>
   <a><img src="https://custom-icon-badges.herokuapp.com/badge/git-f1502f?logo=git&style=for-the-badge&logoColor=white"></a>
+  <a><img src="https://custom-icon-badges.herokuapp.com/badge/pytorch-EE4C2C?logo=pytorch&style=for-the-badge&logoColor=white"></a>
   <a><img src="https://custom-icon-badges.herokuapp.com/badge/spring-6db33f?logo=spring&style=for-the-badge&logoColor=white"></a>
   <a><img src="https://custom-icon-badges.herokuapp.com/badge/tensorflow-FFA800?logo=tensorflow&style=for-the-badge&logoColor=white"></a>
-  <a><img src="https://custom-icon-badges.herokuapp.com/badge/pytorch-EE4C2C?logo=pytorch&style=for-the-badge&logoColor=white"></a>
-  <a><img src="https://custom-icon-badges.herokuapp.com/badge/flask-black?logo=flask&style=for-the-badge&logoColor=white"></a>
+  <a><img src="https://custom-icon-badges.herokuapp.com/badge/twilio-f22f46?logo=twilio&style=for-the-badge&logoColor=white"></a>
 </p>
 
 <p>
