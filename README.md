@@ -7,12 +7,9 @@
   <a href="https://www.instagram.com/jpd.psy/"><img src="https://img.shields.io/badge/instagram-E1306C?logo=instagram&style=for-the-badge&logoColor=white"/></a>&nbsp;
 </p>
 
-<br>
-
 <p>
   <h2 align="center"><b>About me</b></h2>
 </p>
-
 
 <p>
 <b>
@@ -27,8 +24,6 @@ Right now, I'm working for <a href="https://junilearning.com/">Juni Learning</a>
 <p>
 I'm currently working with a local high school's Habitat for Humanity club to create a Flutter application that helps create and manage volunteer events and activities, record donations and student participation for volunteer hours, etc., The application incorporates MySQL database and AWS instances.
 </p>
-
-<br>
 
 <p>
   <h2 align="center"><b>Skills</b></h2>
