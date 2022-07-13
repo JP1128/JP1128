@@ -79,5 +79,6 @@ I'm currently working with a local high school's Habitat for Humanity club to cr
 </p>
 
 <p align="center">
+<b>
 Software Development - Theory of Computing - Data Structures and Algorithm - Computer Architecture and Organization - Database Management - Computer Networks - Data Science I & II - Data Mining - Evolutionary Computations and Its Applications - Artificial Intelligence
 </p>
