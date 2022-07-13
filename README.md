@@ -33,7 +33,31 @@ I'm currently working with a local high school's Habitat for Humanity club to cr
   <h2 align="center"><b>Skills</b></h2>
 </p>
 
-<p align="left"><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a></p>
+<p>
+  <h3 align="center"><b>Language</b></h3>
+</p>
+
+<p align="center">
+<a><img src="https://shields.io/badge/python-excellent-4B8BBE?logo=python&style=for-the-badge"></a>
+<a><img src="https://custom-icon-badges.herokuapp.com/badge/java-proficient-5382a1?logo=Java&style=for-the-badge&logoColor=white"></a>
+<br>
+<a><img src="https://custom-icon-badges.herokuapp.com/badge/Scala-familiar-de3423?logo=scala&style=for-the-badge"></a>
+<a><img src="https://custom-icon-badges.herokuapp.com/badge/C++-familiar-044F88?logo=cpp&style=for-the-badge"></a>
+<a><img src="https://custom-icon-badges.herokuapp.com/badge/JavaScript-familiar-f7df1e?logo=javascript&style=for-the-badge"></a>
+<br>
+<a><img src="https://custom-icon-badges.herokuapp.com/badge/TypeScript-novice-007acc?logo=typescript&style=for-the-badge"></a>
+<a><img src="https://custom-icon-badges.herokuapp.com/badge/R-novice-276DC2?logo=r&style=for-the-badge"></a>
+</p>
+
+<p>
+  <h3 align="center"><b>Database</b></h3>
+</p>
+
+<p align="center">
+<a><img src="https://img.shields.io/badge/MySQL-f29111?logo=mysql&style=for-the-badge&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/PostgreSQL-008bb9?logo=PostgreSQL&style=for-the-badge&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/Redis-d82c20?logo=redis&style=for-the-badge&logoColor=white"></a>
+</p>
 
 <p>
   <h2 align="center"><b>Completed Courses</b></h2>
