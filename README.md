@@ -62,7 +62,7 @@ I'm currently working with a local high school's Habitat for Humanity club to cr
 </p>
 
 <p>
-  <h3 align="center"><b>Tools and Technologies</b></h3>
+  <h3 align="center"><b>Tools and Frameworks</b></h3>
 </p>
 
 <p align="center">
