@@ -15,7 +15,7 @@
 
 <p>
 <b>
-Hi! I'm Jae Park (JP). I am currently a 4th year undergraduate at the University of Georgia pursuing Bachelor of Science in Computer Science. My areas of emphasis are Artificial Intelligence, Internet Information Technology, and Applied Data Science.
+Hi! I'm Jae Park (JP). I am currently a 4th year undergraduate at the University of Georgia pursuing Bachelor of Science in Computer Science. My areas of emphasis are Internet Information Technology, Applied Data Science, Artificial Intelligence, and Software Design.
 </b>
 </p>
 
