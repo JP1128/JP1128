@@ -43,9 +43,9 @@ I'm currently working with a local high school's Habitat for Humanity club to cr
 <br>
   <a><img src="https://custom-icon-badges.herokuapp.com/badge/Scala-familiar-de3423?logo=scala&style=for-the-badge"></a>
   <a><img src="https://custom-icon-badges.herokuapp.com/badge/C++-familiar-044F88?logo=cpp&style=for-the-badge"></a>
-  <a><img src="https://custom-icon-badges.herokuapp.com/badge/JavaScript-familiar-f7df1e?logo=javascript&style=for-the-badge"></a>
   <a><img src="https://custom-icon-badges.herokuapp.com/badge/Dart-familiar-40c4ff?logo=dart&style=for-the-badge"></a>
 <br>
+  <a><img src="https://custom-icon-badges.herokuapp.com/badge/JavaScript-novice-f7df1e?logo=javascript&style=for-the-badge"></a>
   <a><img src="https://custom-icon-badges.herokuapp.com/badge/TypeScript-novice-007acc?logo=typescript&style=for-the-badge"></a>
   <a><img src="https://custom-icon-badges.herokuapp.com/badge/R-novice-276DC2?logo=r&style=for-the-badge"></a>
   <a><img src="https://custom-icon-badges.herokuapp.com/badge/HTML-novice-f06529?style=for-the-badge"></a>
