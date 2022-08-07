@@ -57,6 +57,7 @@ I'm currently working with a local high school's Habitat for Humanity club to cr
 </p>
 
 <p align="center">
+  <a><img src="https://img.shields.io/badge/MongoDB-4DB33D?logo=mongodb&style=for-the-badge&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/MySQL-f29111?logo=mysql&style=for-the-badge&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/PostgreSQL-008bb9?logo=PostgreSQL&style=for-the-badge&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/Redis-d82c20?logo=redis&style=for-the-badge&logoColor=white"></a>
@@ -71,9 +72,10 @@ I'm currently working with a local high school's Habitat for Humanity club to cr
   <a><img src="https://custom-icon-badges.herokuapp.com/badge/digital ocean-0080ff?logo=digitalocean&style=for-the-badge&logoColor=white"></a>
   <a><img src="https://custom-icon-badges.herokuapp.com/badge/docker-0db7ed?logo=docker&style=for-the-badge&logoColor=white"></a>
   <a><img src="https://custom-icon-badges.herokuapp.com/badge/figma-0ACF83?logo=figma&style=for-the-badge&logoColor=white"></a>
+  <a><img src="https://custom-icon-badges.herokuapp.com/badge/firebase-F57C00?logo=firebase&style=for-the-badge&logoColor=white"></a>
   <a><img src="https://custom-icon-badges.herokuapp.com/badge/flask-black?logo=flask&style=for-the-badge&logoColor=white"></a>
-  <a><img src="https://custom-icon-badges.herokuapp.com/badge/Flutter-027DFD?logo=flutter&style=for-the-badge"></a>
   <br>
+  <a><img src="https://custom-icon-badges.herokuapp.com/badge/Flutter-027DFD?logo=flutter&style=for-the-badge"></a>
   <a><img src="https://custom-icon-badges.herokuapp.com/badge/git-f1502f?logo=git&style=for-the-badge&logoColor=white"></a>
   <a><img src="https://custom-icon-badges.herokuapp.com/badge/pytorch-EE4C2C?logo=pytorch&style=for-the-badge&logoColor=white"></a>
   <a><img src="https://custom-icon-badges.herokuapp.com/badge/spring-6db33f?logo=spring&style=for-the-badge&logoColor=white"></a>
