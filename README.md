@@ -40,10 +40,10 @@ I'm currently working with a local high school's Habitat for Humanity club to cr
 <p align="center">
   <a><img src="https://shields.io/badge/python-excellent-4B8BBE?logo=python&style=for-the-badge"></a>
   <a><img src="https://custom-icon-badges.herokuapp.com/badge/java-proficient-5382a1?logo=Java&style=for-the-badge&logoColor=white"></a>
+  <a><img src="https://custom-icon-badges.herokuapp.com/badge/Dart-proficient-40c4ff?logo=dart&style=for-the-badge"></a>
 <br>
   <a><img src="https://custom-icon-badges.herokuapp.com/badge/Scala-familiar-de3423?logo=scala&style=for-the-badge"></a>
   <a><img src="https://custom-icon-badges.herokuapp.com/badge/C++-familiar-044F88?logo=cpp&style=for-the-badge"></a>
-  <a><img src="https://custom-icon-badges.herokuapp.com/badge/Dart-familiar-40c4ff?logo=dart&style=for-the-badge"></a>
 <br>
   <a><img src="https://custom-icon-badges.herokuapp.com/badge/JavaScript-novice-f7df1e?logo=javascript&style=for-the-badge"></a>
   <a><img src="https://custom-icon-badges.herokuapp.com/badge/TypeScript-novice-007acc?logo=typescript&style=for-the-badge"></a>
