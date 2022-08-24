@@ -24,7 +24,7 @@ Right now, I'm working for <a href="https://junilearning.com/">Juni Learning</a>
 </p>
 
 <p>
-I'm currently working with a local high school's Habitat for Humanity club to create a Flutter application that helps create and manage volunteer events and activities, record donations and student participation for volunteer hours, etc., The application incorporates MySQL database and AWS instances.
+I'm currently working with a local high school's Habitat for Humanity club to create a Flutter application that helps create and manage volunteer events and activities, record donations and student participation for volunteer hours, etc., The project incorporates Google's Firebase framework for NoSQL database. The project is currently published and available on the Google's Play Store.
 </p>
 
 <br>
